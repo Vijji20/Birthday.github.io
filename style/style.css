@@ -295,7 +295,7 @@ to{
   }
   #balloon2 {
     background-color: rgba(150, 30, 225, 0.8);
-    left: 14%;
+    left: 1%;
     animation-delay: 4s;
     top: 10%;
   }
@@ -307,7 +307,7 @@ to{
   #balloon4 {
     background-color: rgba(150, 30, 225, 0.8);
     /* background-color: rgba(106, 225, 30, 0.8); */
-    right: 14%;
+    right: 1%;
     animation-delay: 4s;
     top: 10%;
   }
